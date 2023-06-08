@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/YouHelp/static/js/main.e238a840.js",
+    "static/js/787.9625eb1d.chunk.js": "/YouHelp/static/js/787.9625eb1d.chunk.js",
+    "static/media/image5.svg": "/YouHelp/static/media/image5.de18c2e43f1fa1588c29218cfde6c673.svg",
+    "static/media/image4.svg": "/YouHelp/static/media/image4.2a619f0885c3ec15efd83003536fc3dd.svg",
+    "static/media/image6.svg": "/YouHelp/static/media/image6.f1c6833b568ebd677c12d29053be5d35.svg",
+    "static/media/image2.svg": "/YouHelp/static/media/image2.ad2dfff480df979c035b64090f8c42d8.svg",
+    "index.html": "/YouHelp/index.html",
+    "main.e238a840.js.map": "/YouHelp/static/js/main.e238a840.js.map",
+    "787.9625eb1d.chunk.js.map": "/YouHelp/static/js/787.9625eb1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e238a840.js"
+  ]
+}
